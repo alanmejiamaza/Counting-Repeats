@@ -1,5 +1,5 @@
 # Counting-Repeats
-This repository is intended to count XDP hexameric repeats CCCTCT (or reverse complement) 
+This repository is intended to count XDP hexameric repeats CCCTCT (or reverse complement) with 1-99 units.
 
 This tool requires fasta files and it uses seqkit (https://bioinf.shenwei.me/seqkit/).
 
